@@ -11,20 +11,27 @@ layout: home
 
 Programadores 3.0 es una iniciativa del Gobierno de San Luis para formar programadores y programadoras. Gracias a este plan vas a tener acceso a un curso online para aprender de manera gratuita y entretenida cómo programar.
 
-Pero... ¿Qué es programar? Se trata de usar nuestra creatividad e ingenio para resolver problemas y automatizar tareas con la ayuda de una computadora.
+Pero... ¿qué es programar? Se trata de usar nuestra creatividad e ingenio para resolver problemas y automatizar tareas con la ayuda de una computadora.
 
 ## ¿Por qué es importante aprender a programar?
 
 La necesidad de programadores en todo el mundo nunca fue tan alta. Cada año se crean 5000 puestos nuevos de trabajo de programación, sólo en nuestro país.
 
-Pero, principalmente, aprender a programar es aprender a pensar. Al realizar estos ejercicios también vas a ejercitar otras capacidades que te van a servir para todos los ámbitos de tu vida. Las personas que aprendan a programar estarán mejor preparadas para vivir en el mundo actual.
+Pero, principalmente, aprender a programar es aprender a pensar. Al realizar este curso también vas a ejercitar otras capacidades que te van a servir para todos los ámbitos de tu vida. Las personas que aprendan a programar estarán mejor preparadas para vivir en el mundo actual.
 
 Al hacer este curso vas a:
--Incrementar tus posibilidades de inserción laboral
--Ejercitar el pensamiento abstracto
--Incentivar tu creatividad
--Potenciar tu habilidad para la resolución de problemas
--¡Divertirte! (edited)
+
+ * Incrementar tus posibilidades de inserción laboral
+ * Ejercitar el pensamiento abstracto
+ * Incentivar tu creatividad
+ * Potenciar tu habilidad para la resolución de problemas
+ * ¡Divertirte! (edited)
+
+## ¿En qué consiste el curso?
+
+El curso de Programadores 3.0 se ofrece a través de la plataforma argentina [Mumuki](http://mumuki.org), con contenido exclusivo para la provincia de San Luis. El mismo es totalmente online, y podés resolverlo desde un celular, tablet o computadora con acceso a internet.
+
+Con Programadores 3.0, vas a programar desde el primer día: te vamos a presentar explicaciones y ejercicios que vas a tener que seguir ir resolviendo. Así, de a poco vas a aprender sobre esta maravillosa actividad, empezando por problemas muy simples y luego otros más complejos.
 
 ## ¿Cómo hago para registrarme?
 
@@ -55,10 +62,6 @@ Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io
 
 Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utilizá el link del último mail que recibiste para realizar la modificación.
 
-## ¿Tenés dudas sobre la iniciativa?
-
- El Proyecto Mumuki sólo es responsable de la plataforma que Programadores 3.0 utiliza para enseñar. Si tenés dudas o consultas sobre el plan comunicate con el Ministerio de Ciencia y Tecnología de San Luis enviando un mail a **prensa.mcyt@gmail.com** :mailbox_with_mail:.
-
 ## ¿Tenés dificultades para resolver un ejercicio?
 
  Sí, aprender a programar es difícil al principio :sweat:. Requiere mucha paciencia y perseverancia. Equivocarse es parte del proceso. Si te trabás en un ejercicio ¡no te frustres! Muchas veces es necesario volver sobre nuestros pasos y revisar ejercicios anteriores.
@@ -72,3 +75,8 @@ Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utiliz
  Las respuestas de los ejercicios no están publicadas. ¿Por qué? En primer lugar, el aprendizaje es un proceso. La prueba y el error son parte de él y no deberíamos tener miedo ni vergüenza de equivocarnos. Evitar dar las soluciones es una forma de fomentar la prueba y el error. Para aprender a programar es fundamental intentar distintas soluciones y aceptar el error como un resultado posible, sin frustrarse.
 
  Por otro lado, no podemos publicar las respuestas porque ¡no existe una única solución! Hay muchas formas distintas de resolver correctamente un mismo problema.
+
+
+## ¿Tenés otras dudas sobre la iniciativa?
+
+ Si tenés más dudas o consultas sobre el plan comunicate con el Ministerio de Ciencia y Tecnología de San Luis enviando un mail a **prensa.mcyt@gmail.com** :mailbox_with_mail:.
