@@ -25,13 +25,13 @@ Al hacer este curso vas a:
  * Ejercitar el pensamiento abstracto
  * Incentivar tu creatividad
  * Potenciar tu habilidad para la resolución de problemas
- * ¡Divertirte! (edited)
+ * ¡Divertirte!
 
 ## ¿En qué consiste el curso?
 
 El curso de Programadores 3.0 se ofrece a través de la plataforma argentina [Mumuki](http://mumuki.org), con contenido exclusivo para la provincia de San Luis. El mismo es totalmente online, y podés resolverlo desde un celular, tablet o computadora con acceso a internet.
 
-Con Programadores 3.0, vas a programar desde el primer día: te vamos a presentar explicaciones y ejercicios que vas a tener que seguir ir resolviendo. Así, de a poco vas a aprender sobre esta maravillosa actividad, empezando por problemas muy simples y luego otros más complejos.
+Con Programadores 3.0, vas a programar desde el primer día: te vamos a presentar explicaciones y ejercicios que vas a tener que ir resolviendo. Así, de a poco vas a aprender sobre esta maravillosa actividad, empezando por problemas muy simples y luego otros más complejos.
 
 ## ¿Cómo hago para registrarme?
 
