@@ -41,6 +41,11 @@ Con Programadores 3.0, vas a programar desde el primer día: te vamos a presenta
 
  Cuando recibas el mensaje, ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io) y poné **el mismo mail** que usaste para registrarte en Camino 3.0 y una contraseña a elección.
 
+## ¿Qué hago si necesito ayuda?
+
+¡En Programadores 3.0 te acompañamos! Aunque el curso es totalmente remoto, creamos la **Comunidad de Programadores 3.0**, un grupo de Facebook en el que podrás contactarte con estudiantes y tutores, hacer preguntas y pedir ayuda. ¡Unite ahora mismo haciendo click en  [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0)!
+
+Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que pueden demorarse unas horas :tired_face:. ¡Tené paciencia!
 
 ## ¿Tenés problemas para iniciar sesión?
 
@@ -50,15 +55,18 @@ Con Programadores 3.0, vas a programar desde el primer día: te vamos a presenta
 
  Si te aparece `Authentication Error. Access expired` estás intentando usar un link que ya expiró.
 
-## ¿Te aparece “error 403”?
+## ¿Te aparece `error 403`?
 
- El error 403 salta por dos motivos. Puede ser que estás ingresando con un mail diferente al que utilizaste para registrarte en Camino 3.0. Recordá que **sólo podés ingresar con ese mismo mail**. Si te das cuenta que ingresaste con un mail incorrecto cerrá sesión y volvé a iniciarla con el mail habilitado.
+ El error 403 ocurre por dos motivos:
 
- También puede ser que tu mail todavía no fue habilitado :no_entry_sign:. Primero **te tiene que llegar el mensaje de confirmación**. Nosotros no podemos darte acceso a la plataforma antes.
+ 1. Puede ser que estás ingresando con un mail diferente al que utilizaste para registrarte en Camino 3.0. Recordá que **sólo podés ingresar con ese mismo mail**. Si te das cuenta que ingresaste con un mail incorrecto cerrá sesión y volvé a iniciarla con el mail habilitado.
+ 2.  También puede ocurrir que tu mail todavía no haya sido habilitado. Esperá a que **te llegue el mensaje de confirmación**.
 
 ## ¿Tenés dificultades para cambiar la contraseña?
 
-Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io, hacé click en "¿Olvidó su contraseña?" e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.  ¡No te duermas! :sleeping: El link para confirmar el cambio de contraseña tiene "fecha de vencimiento", es decir que, después de tiempo, expira y ya no se puede usar :scream:.
+Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io, hacé click en "¿Olvidó su contraseña?" e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.
+
+¡No te duermas! :sleeping: El link para confirmar el cambio de contraseña tiene "fecha de vencimiento", es decir que, después de tiempo, expira y ya no se puede usar.
 
 Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utilizá el link del último mail que recibiste para realizar la modificación.
 
@@ -66,9 +74,7 @@ Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utiliz
 
  Sí, aprender a programar es difícil al principio :sweat:. Requiere mucha paciencia y perseverancia. Equivocarse es parte del proceso. Si te trabás en un ejercicio ¡no te frustres! Muchas veces es necesario volver sobre nuestros pasos y revisar ejercicios anteriores.
 
- Si te trabaste en un ejercicio unite a la **Comunidad de Programadores 3.0 en facebook** haciendo click en [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0) Ahí todos pueden preguntar, responder y comentar. También participan docentes de programación para explicar en detalle las consultas más frecuentes :chart_with_upwards_trend:.
-
- Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que pueden demorarse unas horas :tired_face:. ¡Tené paciencia!
+ Y no te olvides de la **Comunidad de Programadores 3.0** [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0). Ahí todos pueden preguntar, responder y comentar. También participan docentes de programación para explicar en detalle las consultas más frecuentes :chart_with_upwards_trend:.
 
 ## ¿Estás buscando las respuestas?
 
