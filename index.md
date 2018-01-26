@@ -9,7 +9,7 @@ layout: home
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/wnAP7HChPrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Programadores 3.0 es una iniciativa del Gobierno de San Luis para formar programadores y programadoras. Gracias a este plan vas a tener acceso a un curso online para aprender de manera gratuita y entretenida cómo programar.
+Programadores 3.0 es una iniciativa del Gobierno de San Luis para formar programadores. Gracias a este plan vas a tener acceso a un curso online para aprender de manera gratuita y entretenida cómo programar.
 
 Pero... ¿qué es programar? Se trata de usar nuestra creatividad e ingenio para resolver problemas y automatizar tareas con la ayuda de una computadora.
 
