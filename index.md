@@ -9,9 +9,13 @@ layout: home
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/wnAP7HChPrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Programadores 3.0 es una iniciativa del Gobierno de San Luis para formar programadores. Gracias a este plan vas a tener acceso a un curso online para aprender de manera gratuita y entretenida cómo programar.
+**Programadores 3.0** es una iniciativa del Gobierno de San Luis para formar programadores. Gracias a este plan vas a tener acceso a un curso online para aprender de manera gratuita y entretenida cómo programar.
 
-Pero... ¿qué es programar? Se trata de usar nuestra creatividad e ingenio para resolver problemas y automatizar tareas con la ayuda de una computadora.
+## ¿Qué significa _programar_?
+
+Pero... ¿qué es programar? Se trata de usar nuestra creatividad e ingenio para resolver problemas y automatizar tareas con la ayuda de una computadora. Dicho de otra forma, la programación trata de entender, construir y modificar _software_.  
+
+La programación es una actividad fundamental en muchos campos: por ejemplo nos sirve para construir aplicaciones y páginas _Web_, pero también nos permite resolver situaciones más concretas, como llevar nuestra contabilidad con una hoja de cálculo de forma mas eficiente. 
 
 ## ¿Por qué es importante aprender a programar?
 
@@ -29,17 +33,22 @@ Al hacer este curso vas a:
 
 ## ¿En qué consiste el curso?
 
-El curso de Programadores 3.0 se ofrece a través de la plataforma argentina [Mumuki](http://mumuki.org), con contenido exclusivo para la provincia de San Luis. El mismo es totalmente online, y podés resolverlo desde un celular, tablet o computadora con acceso a internet.
+El curso de **Programadores 3.0** se ofrece a través de la plataforma argentina [Mumuki](http://mumuki.org), con contenido exclusivo y diseñado para los beneficiarios del plan. El mismo es totalmente online, y podés resolverlo desde un celular, tablet o computadora con acceso a internet.
 
-Con Programadores 3.0, vas a programar desde el primer día: te vamos a presentar explicaciones y ejercicios que vas a tener que ir resolviendo. Así, de a poco vas a aprender sobre esta maravillosa actividad, empezando por problemas muy simples y luego otros más complejos.
+Con **Programadores 3.0**, vas a programar desde el primer día: te vamos a presentar explicaciones y ejercicios que vas a tener que ir resolviendo. Así, de a poco vas a aprender sobre esta maravillosa actividad, empezando por problemas muy simples y luego otros más complejos.
 
-## ¿Cómo hago para registrarme?
+## ¿Cómo hago para registrarme y empezar?
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/3j1uP_Xaki8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
- Primero realizá el test de [www.camino3punto0.sanluis.edu.ar](www.camino3punto0.sanluis.edu.ar) y respondé que querés ser parte de Programadores 3.0. El Gobierno de San Luis va a corroborar tus datos y, cuando ya esté todo listo, te van a enviar un mensaje de texto y un mail con instrucciones :calling:.
+ Primero realizá el test de [Camino 3.0](www.camino3punto0.sanluis.edu.ar) y respondé que querés ser parte de **Programadores 3.0**. El Gobierno de San Luis va a corroborar tus datos y te va a enviar un mensaje de texto y un email con instrucciones :calling:.
 
- Cuando recibas el mensaje, ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io) y poné **el mismo mail** que usaste para registrarte en Camino 3.0 y una contraseña a elección.
+ Cuando recibas el mensaje, seguí los siguientes pasos: 
+ 
+ 1. ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io);
+ 2. seleccioná _Iniciar Sesión_; 
+ 3. seleccioná _Registrarse_; 
+ 4. ingresá **el mismo mail** que usaste para registrarte en Camino 3.0 y una contraseña a elección.
 
 ## ¿Qué hago si necesito ayuda?
 
@@ -49,26 +58,26 @@ Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que
 
 ## ¿Tenés problemas para iniciar sesión?
 
- Ingresá siempre desde [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io) y **nunca** desde el mail de confirmación que recibiste en tu casilla. Ese mail es para usarse una sola vez, para confirmar. No para ingresar.
+ Ingresá siempre desde [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io) y **nunca** desde el mail de confirmación que recibiste en tu casilla. Ese mail es para usarse una sola vez para confirmar la cuenta, no para ingresar.
 
- El mail de confirmación tiene un link con "fecha de vencimiento". Eso significa que, por cuestiones de seguridad, después de un tiempo, expira :astonished:.
-
- Si te aparece `Authentication Error. Access expired` estás intentando usar un link que ya expiró.
+ El mail de confirmación tiene un link con _fecha de vencimiento_. Eso significa que, por cuestiones de seguridad, después de un tiempo, no sirve más :astonished:. Por eso, si te aparece `Authentication Error. Access expired`, significa que estás intentando usar un link que ya no sirve.
 
 ## ¿Te aparece `error 403`?
 
  El error 403 ocurre por dos motivos:
 
- 1. Puede ser que estás ingresando con un mail diferente al que utilizaste para registrarte en Camino 3.0. Recordá que **sólo podés ingresar con ese mismo mail**. Si te das cuenta que ingresaste con un mail incorrecto cerrá sesión y volvé a iniciarla con el mail habilitado.
- 2.  También puede ocurrir que tu mail todavía no haya sido habilitado. Esperá a que **te llegue el mensaje de confirmación**.
+ 1. estás ingresando con un mail diferente al que utilizaste para registrarte en Camino 3.0. Cerrá sesión y volvé a iniciarla **asegurándote de que estás ingresando el mail que usaste en Camino 3.0**;
+ 2.  o bien, tu mail todavía no haya sido habilitado. Esperá a que **te llegue el mensaje de confirmación**.
+
+## ¿Venías resolviendo ejercicios y "perdiste" el progreso?
+
+¡La plataforma [Mumuki](https://jovenes.sanluis.mumuki.io) guarda siempre tu progreso! Si después de unos días volviste a entrar y parece que lo perdiste, seguramente es porque estás ingresando con una cuenta incorrecta.  Cerrá sesión y volvé a iniciarla **asegurándote de que estás ingresando el mail que usaste en Camino 3.0**;
 
 ## ¿Tenés dificultades para cambiar la contraseña?
 
-Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io, hacé click en "¿Olvidó su contraseña?" e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.
+Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io, hacé click en _¿Olvidó su contraseña?_ e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.
 
-¡No te duermas! :sleeping: El link para confirmar el cambio de contraseña tiene "fecha de vencimiento", es decir que, después de tiempo, expira y ya no se puede usar.
-
-Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utilizá el link del último mail que recibiste para realizar la modificación.
+¡No te duermas! :sleeping: El link para confirmar el cambio de contraseña tiene _fecha de vencimiento_, es decir que, después de tiempo, expira y ya no se puede usar. Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utilizá el link del último mail que recibiste para realizar la modificación.
 
 ## ¿Tenés dificultades para resolver un ejercicio?
 
