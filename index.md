@@ -67,7 +67,7 @@ Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que
  El error 403 ocurre por dos motivos:
 
  1. estás ingresando con un mail diferente al que utilizaste para registrarte en Camino 3.0. Cerrá sesión y volvé a iniciarla **asegurándote de que estás ingresando el mail que usaste en Camino 3.0**;
- 2.  o bien, tu mail todavía no haya sido habilitado. Esperá a que **te llegue el mensaje de confirmación**.
+ 2.  o bien, tu mail todavía no fue habilitado. Esperá a que **te llegue el mensaje de confirmación**.
 
 ## ¿Venías resolviendo ejercicios y "perdiste" el progreso?
 
