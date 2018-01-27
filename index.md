@@ -15,11 +15,11 @@ layout: home
 
 Pero... ¿qué es programar? Se trata de usar nuestra creatividad e ingenio para resolver problemas y automatizar tareas con la ayuda de una computadora. Dicho de otra forma, la programación trata de entender, construir y modificar _software_.  
 
-La programación es una actividad fundamental en muchos campos: por ejemplo nos sirve para construir aplicaciones y páginas _Web_, pero también nos permite resolver situaciones más concretas, como llevar nuestra contabilidad con una hoja de cálculo de forma mas eficiente. 
+La programación es una actividad fundamental en muchos campos: por ejemplo nos sirve para construir aplicaciones y páginas _Web_, pero también nos permite resolver situaciones más concretas, como llevar nuestra contabilidad con una hoja de cálculo de forma mas eficiente :smile:. 
 
 ## ¿Por qué es importante aprender a programar?
 
-La necesidad de programadores en todo el mundo nunca fue tan alta. Cada año se crean 5000 puestos nuevos de trabajo de programación, sólo en nuestro país.
+La necesidad de programadores en todo el mundo nunca fue tan alta. Cada año se crean 5000 puestos nuevos de trabajo de programación, sólo en nuestro país :argentina:.
 
 Pero, principalmente, aprender a programar es aprender a pensar. Al realizar este curso también vas a ejercitar otras capacidades que te van a servir para todos los ámbitos de tu vida. Las personas que aprendan a programar estarán mejor preparadas para vivir en el mundo actual.
 
@@ -52,7 +52,7 @@ Con **Programadores 3.0**, vas a programar desde el primer día: te vamos a pres
 
 ## ¿Qué hago si necesito ayuda?
 
-¡En Programadores 3.0 te acompañamos! Aunque el curso es totalmente remoto, creamos la **Comunidad de Programadores 3.0**, un grupo de Facebook en el que podrás contactarte con estudiantes y tutores, hacer preguntas y pedir ayuda. ¡Unite ahora mismo haciendo click en  [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0)!
+¡En **Programadores 3.0** te acompañamos! Aunque el curso es totalmente remoto, creamos la **Comunidad de Programadores 3.0**, un grupo de Facebook en el que podrás contactarte con estudiantes y tutores, hacer preguntas y pedir ayuda. ¡Unite ahora mismo haciendo click en  [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0)!
 
 Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que pueden demorarse unas horas :tired_face:. ¡Tené paciencia!
 
@@ -75,7 +75,7 @@ Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que
 
 ## ¿Tenés dificultades para cambiar la contraseña?
 
-Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io, hacé click en _¿Olvidó su contraseña?_ e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.
+Si querés modificar tu contraseña ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io), hacé click en _¿Olvidó su contraseña?_ e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.
 
 ¡No te duermas! :sleeping: El link para confirmar el cambio de contraseña tiene _fecha de vencimiento_, es decir que, después de tiempo, expira y ya no se puede usar. Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utilizá el link del último mail que recibiste para realizar la modificación.
 
@@ -83,7 +83,7 @@ Si querés modificar tu contraseña ingresá a https://jovenes.sanluis.mumuki.io
 
  Sí, aprender a programar es difícil al principio :sweat:. Requiere mucha paciencia y perseverancia. Equivocarse es parte del proceso. Si te trabás en un ejercicio ¡no te frustres! Muchas veces es necesario volver sobre nuestros pasos y revisar ejercicios anteriores.
 
- Y no te olvides de la **Comunidad de Programadores 3.0** [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0). Ahí todos pueden preguntar, responder y comentar. También participan docentes de programación para explicar en detalle las consultas más frecuentes :chart_with_upwards_trend:.
+ Y no te olvides de la **Comunidad de Programadores 3.0** [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0). Ahí todos pueden preguntar, responder y comentar. También participan docentes de programación para explicar en detalle las consultas más frecuentes.
 
 ## ¿Estás buscando las respuestas?
 
