@@ -96,7 +96,7 @@ Si querés modificar tu contraseña ingresá a [https://jovenes.sanluis.mumuki.i
 
  Por otro lado, no podemos publicar las respuestas porque ¡no existe una única solución! Hay muchas formas distintas de resolver correctamente un mismo problema.
  
- ## ¿Cómo hago para abandonar el curso?
+## ¿Cómo hago para abandonar el curso?
 
 Si querés dejar de hacer el curso no hace falta que desactives ni que elimines tu cuenta. Simplemente dejá de hacer los ejercicios y sabremos que abandonaste.
 
