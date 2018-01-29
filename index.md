@@ -72,7 +72,7 @@ Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que
 
 ¡La plataforma [Mumuki](https://jovenes.sanluis.mumuki.io) guarda siempre tu progreso! Si después de unos días volviste a entrar y parece que lo perdiste, seguramente es porque estás ingresando con una cuenta incorrecta.  Cerrá sesión y volvé a iniciarla **asegurándote de que estás ingresando el mail que usaste en Camino 3.0**;
 
-## Estuve haciendo los ejercicios con otra cuenta ¿qué hago?
+## Estuve haciendo los ejercicios con otra cuenta, ¿qué hago?
 
 Si te das cuenta que ingresaste con un mail incorrecto andá al círculo que aparece en la esquina superior derecha de la pantalla, hacé click en “cerrar sesión” y volvé a iniciarla con el mail que usaste en Camino 3.0.
 
@@ -96,7 +96,7 @@ Si querés modificar tu contraseña ingresá a [https://jovenes.sanluis.mumuki.i
 
  Por otro lado, no podemos publicar las respuestas porque ¡no existe una única solución! Hay muchas formas distintas de resolver correctamente un mismo problema.
  
- ## Quiero abandonar el curso ¿Cómo hago?
+ ## ¿Cómo hago para abandonar el curso?
 
 Si querés dejar de hacer el curso no hace falta que desactives ni que elimines tu cuenta. Simplemente dejá de hacer los ejercicios y sabremos que abandonaste.
 
