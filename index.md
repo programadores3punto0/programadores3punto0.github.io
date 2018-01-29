@@ -45,10 +45,9 @@ Con **Programadores 3.0**, vas a programar desde el primer día: te vamos a pres
 
  Cuando recibas el mensaje, seguí los siguientes pasos: 
  
- 1. ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io);
- 2. seleccioná _Iniciar Sesión_; 
- 3. seleccioná _Registrarse_; 
- 4. ingresá **el mismo mail** que usaste para registrarte en Camino 3.0 y una contraseña a elección.
+ 1. ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io); 
+ 2. seleccioná _Registrarse_; 
+ 3. ingresá **el mismo mail** que usaste para registrarte en Camino 3.0 y una contraseña a elección.
 
 ## ¿Qué hago si necesito ayuda?
 
@@ -56,42 +55,51 @@ Con **Programadores 3.0**, vas a programar desde el primer día: te vamos a pres
 
 Antes de aceptarte, los moderadores tienen que corroborar tu identidad, así que pueden demorarse unas horas :tired_face:. ¡Tené paciencia!
 
-## ¿Tenés problemas para iniciar sesión?
+## Tengo problemas para iniciar sesión
 
  Ingresá siempre desde [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io) y **nunca** desde el mail de confirmación que recibiste en tu casilla. Ese mail es para usarse una sola vez para confirmar la cuenta, no para ingresar.
 
  El mail de confirmación tiene un link con _fecha de vencimiento_. Eso significa que, por cuestiones de seguridad, después de un tiempo, no sirve más :astonished:. Por eso, si te aparece `Authentication Error. Access expired`, significa que estás intentando usar un link que ya no sirve.
 
-## ¿Te aparece `error 403`?
+## Me aparece `error 403`, ¿qué significa?
 
  El error 403 ocurre por dos motivos:
 
  1. estás ingresando con un mail diferente al que utilizaste para registrarte en Camino 3.0. Cerrá sesión y volvé a iniciarla **asegurándote de que estás ingresando el mail que usaste en Camino 3.0**;
  2.  o bien, tu mail todavía no fue habilitado. Esperá a que **te llegue el mensaje de confirmación**.
 
-## ¿Venías resolviendo ejercicios y "perdiste" el progreso?
+## Venía resolviendo ejercicios y "perdí" el progreso
 
 ¡La plataforma [Mumuki](https://jovenes.sanluis.mumuki.io) guarda siempre tu progreso! Si después de unos días volviste a entrar y parece que lo perdiste, seguramente es porque estás ingresando con una cuenta incorrecta.  Cerrá sesión y volvé a iniciarla **asegurándote de que estás ingresando el mail que usaste en Camino 3.0**;
 
-## ¿Tenés dificultades para cambiar la contraseña?
+## Estuve haciendo los ejercicios con otra cuenta ¿qué hago?
+
+Si te das cuenta que ingresaste con un mail incorrecto andá al círculo que aparece en la esquina superior derecha de la pantalla, hacé click en “cerrar sesión” y volvé a iniciarla con el mail que usaste en Camino 3.0.
+
+Sólo se van a tener en cuenta los ejercicios que hagas con el mail que te anotaste en la iniciativa así que, si los hiciste con una cuenta incorrecta, vas a tener que volver a hacerlos con la cuenta indicada. ¡Mirá el lado positivo! Repetir los ejercicios te va a servir como práctica para entenderlos mejor.
+
+## ¿Cómo hago para cambiar mi contraseña?
 
 Si querés modificar tu contraseña ingresá a [https://jovenes.sanluis.mumuki.io](https://jovenes.sanluis.mumuki.io), hacé click en _¿Olvidó su contraseña?_ e ingresá tu mail. Te va a llegar un correo a tu casilla para que confirmes el pedido.
 
 ¡No te duermas! :sleeping: El link para confirmar el cambio de contraseña tiene _fecha de vencimiento_, es decir que, después de tiempo, expira y ya no se puede usar. Si te pasa eso, no te preocupes. Volvé a mandar la solicitud de cambio y utilizá el link del último mail que recibiste para realizar la modificación.
 
-## ¿Tenés dificultades para resolver un ejercicio?
+## No me sale un ejercicio, ¿cómo hago para resolverlo?
 
  Sí, aprender a programar es difícil al principio :sweat:. Requiere mucha paciencia y perseverancia. Equivocarse es parte del proceso. Si te trabás en un ejercicio ¡no te frustres! Muchas veces es necesario volver sobre nuestros pasos y revisar ejercicios anteriores.
 
  Y no te olvides de la **Comunidad de Programadores 3.0** [https://www.facebook.com/groups/programadores3.0](https://www.facebook.com/groups/programadores3.0). Ahí todos pueden preguntar, responder y comentar. También participan docentes de programación para explicar en detalle las consultas más frecuentes.
 
-## ¿Estás buscando las respuestas?
+## ¿Dónde puedo encontrar las respuestas?
 
  Las respuestas de los ejercicios no están publicadas. ¿Por qué? En primer lugar, el aprendizaje es un proceso. La prueba y el error son parte de él y no deberíamos tener miedo ni vergüenza de equivocarnos. Evitar dar las soluciones es una forma de fomentar la prueba y el error. Para aprender a programar es fundamental intentar distintas soluciones y aceptar el error como un resultado posible, sin frustrarse.
 
  Por otro lado, no podemos publicar las respuestas porque ¡no existe una única solución! Hay muchas formas distintas de resolver correctamente un mismo problema.
+ 
+ ## Quiero abandonar el curso ¿Cómo hago?
 
+Si querés dejar de hacer el curso no hace falta que desactives ni que elimines tu cuenta. Simplemente dejá de hacer los ejercicios y sabremos que abandonaste.
 
-## ¿Tenés otras dudas sobre la iniciativa?
+## Tengo una duda sobre el plan
 
  Si tenés más dudas o consultas sobre el plan comunicate con el Ministerio de Ciencia y Tecnología de San Luis enviando un mail a **prensa.mcyt@gmail.com** :mailbox_with_mail:.
