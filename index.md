@@ -102,4 +102,4 @@ Si querés dejar de hacer el curso no hace falta que desactives ni que elimines 
 
 ## Tengo una duda sobre el plan
 
- Si tenés más dudas o consultas sobre el plan comunicate con el Ministerio de Ciencia y Tecnología de San Luis enviando un mail a **prensa.mcyt@gmail.com** :mailbox_with_mail:.
+ Si tenés más dudas o consultas sobre el plan comunicate con el Ministerio de Ciencia y Tecnología de San Luis enviando un mail a **programadores3punto0@sanluis.edu.ar** :mailbox_with_mail:.
